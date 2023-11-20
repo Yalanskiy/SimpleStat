@@ -1,0 +1,20 @@
+{
+    "name": "syalanskiy/simple-stat",
+    "description": "Simple Math Stat Library",
+    "license": "MIT",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Yalanskiy\\SimpleStat\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sergey Yalanskiy",
+            "email": "yalansky@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    }
+}
